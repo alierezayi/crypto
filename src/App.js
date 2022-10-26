@@ -1,7 +1,7 @@
-import './App.css';
+import "./App.css";
 
 // Components
-import Landing from './components/Landing';
+import Landing from "./components/Landing";
 
 function App() {
   return (
